@@ -7,3 +7,7 @@
 - **Discord**:  
   [![Discord Presence](https://lanyard.cnrad.dev/api/1289443629873496117)](https://discord.com/users/1289443629873496117)  
   Feel free to reach out.
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Warlord12398&color=blue)
+
